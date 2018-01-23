@@ -20,7 +20,9 @@ I intend to build an app that displays:</br>
 
 <b>The Wireframes</b></br></br>
 
+
 <b> The Entity Relationship Diagram</b></br></br>
+
 
 <b>The Technologies</b></br></br>
 * HTML/CSS/Vanilla Javascript - Front end display, interactivity, responsiveness, and styling
@@ -33,3 +35,28 @@ I intend to build an app that displays:</br>
 * Pug - Views engines
 * Twitter API
 * Passport
+
+<b>User Stories</b></br>
+As a USER</br>
+I WANT to be able to access the Pearls of Wisdom page</br>
+SO THAT I can see the dailt Pearl</br>
+
+AS a USER</br>
+I WANT to be able to read the Pearl</br>
+SO THAT I can be inspired for the day.</br>
+
+AS a USER</br>
+I  WANT TO be able to see all the Pearls, individually, from each day of the year</br>
+SO THAT each day I have something new to read.</br>
+
+AS a USER</br>
+I WANT TO be able to access the individual Pearls from each day of the yeah by clicking a calendar icon</br>
+SO THAT I can see Pearls form other days of the year because I do not plan on coming to this page every day.</br>
+
+AS a USER </br>
+I WANT TO have a text input field</br>
+SO THAT I can input userPearls.</br>
+
+AS a USER</br>
+I WANT TO have a button to submit</br>
+SO THAT my userPearl will be persisted.</br>
