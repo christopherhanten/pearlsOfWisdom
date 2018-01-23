@@ -1,0 +1,24 @@
+{
+  "name": "pearlsofwisdom",
+  "version": "1.0.0",
+  "description": "Try 3: The Night Before",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherhanten/pearlsOfWisdom.git"
+  },
+  "author": "chanten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherhanten/pearlsOfWisdom/issues"
+  },
+  "homepage": "https://github.com/christopherhanten/pearlsOfWisdom#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1",
+    "pug": "^2.0.0-rc.4"
+  }
+}
