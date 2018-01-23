@@ -20,7 +20,7 @@ I intend to build an app that displays:</br>
 
 <b>The Wireframes</b></br></br>
 
-<b> The ERD</b></br></br>
+<b> The Entity Relationship Diagram</b></br></br>
 
 <b>The Technologies</b></br></br>
 * HTML/CSS/Vanilla Javascript - Front end display, interactivity, responsiveness, and styling
